@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hannah Obinim
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Computer Science at Queen Mary University of London
+- 💞️ I’m looking to collaborate with other like minded people
 - 📫 Reach me on obinimhannah02@gmail.com
 
 <!---
